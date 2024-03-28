@@ -85,6 +85,6 @@
     // Add other dependencies as needed
   },
   "engines": {
-    "node": "15.x"
+    "node": "19.x"
   }
 }
